@@ -1,4 +1,4 @@
-# Hi there I'm Ouael!
+# Hi there I'm Ouael!👋
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ouaelesi&show_icons=true&theme=radical"/>
 <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouaelesi&layout=compact" />
 
@@ -7,3 +7,4 @@
 <img align="left" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
